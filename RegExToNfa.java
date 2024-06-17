@@ -5,14 +5,6 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Stack;
 
-/**
- * Write your info here
- * 
- * @name Ahmed Soliman
- * @id 49-2711
- * @labNumber 23
- */
-
 public class RegExToNfa {
 	
 	static int stateNum = 0;

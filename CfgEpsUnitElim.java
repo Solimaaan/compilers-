@@ -4,14 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-/**
- * Write your info here
- * 
- * @name Ahmed Soliman
- * @id 49-2711
- * @labNumber 23
- */
-
 public class CfgEpsUnitElim {
 
 	private ArrayList<String> variables;

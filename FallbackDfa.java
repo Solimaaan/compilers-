@@ -4,14 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-/**
- * Write your info here
- * 
- * @name Ahmed Soliman
- * @id 49-2711
- * @labNumber 23
- */
-
 public class FallbackDfa {
 
 	String startState;

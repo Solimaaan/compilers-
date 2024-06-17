@@ -3,14 +3,6 @@ package csen1002.main.task5;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Write your info here
- * 
- * @name Ahmed Soliman
- * @id 49-2711
- * @labNumber 23
- */
-
 public class CfgLeftRecElim {
 
 	private ArrayList<String> variables;
